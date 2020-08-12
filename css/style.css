@@ -80,7 +80,7 @@ button {
 /* line 39, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/theme-default.scss */
 h1, h2, h3, h4, h5 {
   font-family: "Roboto", sans-serif;
-  color: #001D38;
+  color: #f9fccd;
 }
 
 /* line 43, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/theme-default.scss */
@@ -1513,7 +1513,7 @@ h3 {
 .slider_area .single_slider .my_img {
   position: absolute;
   right: 0;
-  bottom: 0;
+  /* bottom: 0; */
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
