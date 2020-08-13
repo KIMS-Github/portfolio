@@ -73,7 +73,8 @@ a:hover,
 /* line 34, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/theme-default.scss */
 a,
 button {
-  color: #1F1F1F;
+  font-weight: bold;
+  color: white;
   outline: medium none;
 }
 
@@ -6213,5 +6214,8 @@ h6 {
   margin-right: 10px;
   font-size: 12px;
 }
+
+
+
 
 /*# sourceMappingURL=style.css.map */
